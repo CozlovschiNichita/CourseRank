@@ -1,4 +1,4 @@
-# MyTop - проект на Next.js
+# CourseRank - на Next.js
 
 Это проект на [Next.js](https://nextjs.org), созданный с помощью [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).  
 Используются **TypeScript**, **TailwindCSS**, **Framer Motion** и кастомные React-компоненты.
@@ -87,6 +87,12 @@
 
 Теперь приложение будет доступно на http://localhost:3000.
 Использование docker-compose гарантирует одинаковую среду на всех компьютерах и упрощает запуск.
+
+## Демо-видео
+
+[![Смотреть демо-видео](./public/photo.jpg)](./public/video.mov)
+
+---
 
 ## Полезные ссылки
 

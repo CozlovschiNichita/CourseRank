@@ -38,9 +38,9 @@ a {
   --white: white;
   --primary: black;
   --primary-hover: black;
-  --red-light: #FEA291;
-  --red: #FC836D;
-  --green: #007B48;
-  --green-light: #C8F8E4;
+  --red-light: #ff2600;
+  --red: #ffe605;
+  --green: #ebfaeb;
+  --green-light: #141313;
   --font-family: "Noto Sans KR", sans-serif;
 }
