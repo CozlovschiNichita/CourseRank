@@ -1,0 +1,16 @@
+.sidebar {
+	display: grid;
+	align-content: start;
+	gap: 20px;
+}
+
+.logo {
+  width: auto; 
+  height: 150px;     
+}
+
+@media (max-width: 765px) {
+  .logo {
+    height: 100px;  
+  }
+}
